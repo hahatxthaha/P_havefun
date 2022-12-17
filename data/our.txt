@@ -1,0 +1,666 @@
+[LINE] Chat history in 人工智慧暨網站應用專業人才培訓班第一梯
+Saved on: 2021/10/05, 22:41
+
+2021/09/11, Sat
+10:27 AM	⁨⁨Logos Chen⁩⁩ invited ⁨⁨Roger Chen⁩⁩ to the group. Wait for them to join before chatting.
+10:27 AM	⁨⁨Roger Chen⁩⁩ joined the group.
+10:29 AM	will unsent a message.
+10:29 AM	will unsent a message.
+10:29 AM	will unsent a message.
+10:29 AM	will unsent a message.
+10:30 AM	Logos Chen	大家早安，讓我介紹 Roger 老師。老師在網頁工程與機器學習都有研究，人也非常親切，有任何問題都可以在上課的過程中，向老師提問喔！
+10:31 AM	will	[Sticker]
+10:31 AM	陳浩全	老師好~~
+10:32 AM	Roger Chen	大家早， 我是 Roger。未來上課期間，我會陪大家一起走過這段精彩的旅程。
+10:35 AM	Roger Chen	我是一個資訊產業的老兵了，之前在 IT 界和 電信產業都工作很長一段時間，除了在工作上負責技術管理之外，我的研究領域是機器學習。
+10:38 AM	Roger Chen	在上課過程中，如果有任何問題，請不要客氣，提出來我們大家一起研究。
+10:40 AM	你才翔翔	@Roger Chen 老師您好 請問上課前是否需要先下載哪一款編輯器或哪款軟體
+10:42 AM	Roger Chen	在 Web 和  Python 兩個子課程的第一單元，講師都介紹了開發環境和工具。這些工具中，普及率比較高的是 PyCharm 和 VSCODE。
+10:43 AM	Roger Chen	VSCODE  Studio 是微軟開發釋出的免費開發工具，初入門是很好的選擇。
+10:44 AM	Roger Chen	PyCharm 分社羣版和專業版，社群版免費，專業版是採年費制度。社群版的功能對初階工程師已經夠用了。
+10:45 AM	Roger Chen	在課程中，會介紹 Jupyter Notebook  和 Colab 兩個 Web 開發環境，只要用瀏覽器就可以了。
+10:45 AM	will	Roger老師好 我是課程助教Will，再麻煩老師加我line一下
+10:46 AM	will	"以下是明天上課的會議室https://meet.google.com/ncx-egse-fus
+
+ 9:00會先進行點名以及產業新尖兵課程注意事項說明，稽核應該會在這段期間進來，預計9:30前可將課程在還給老師  後續我們每日預計9:00，11:30，13:30，16:30會進行每日的四次點名，中途下課時間再麻煩老師安排"
+11:04 AM	Roger Chen	https://code.visualstudio.com/
+11:05 AM	Roger Chen	https://www.jetbrains.com/pycharm/
+11:05 AM	Roger Chen	如果同學想先下載工具試一試的話， 請參考以上兩個連結
+11:06 AM	will	"各位同學好
+剛剛與Roger老師討論，因為課程內容較多，所以我們每天的上課時間，會是從上午8:30~12:00，下午13:30~17:00
+點名時間修正為8:20、12:00 ,13:20,17:00 在請大家注意一下喔 "
+11:08 AM	will	但明天第一天我們還是維持9:00點名與看產業新尖兵說明影片，9:30會將課程還給老師
+11:08 AM	will	[Sticker]
+03:38 PM	⁨⁨*沛欣⁩⁩ joined the group.
+03:47 PM	Roger Chen	"早上有同學問到是否需要先下載工具，我提到大家可以先下載 VSCODE 和 PyCharm，這裏我再提供一些補充說明。
+
+網頁設計的講師跟大家推薦的工具是 Visual Studio Code （通常簡稱為 [VSCODE](https://code.visualstudio.com/)），另外一個是 [Sublime Text](https://www.sublimetext.com/download)。
+
+這兩個工具跟早上介紹過的另外一個工具 PyCharm，都是功能豐富強大，還有很多熱心網友及廠商提供的插件，讓開發人員有更多便利的工具可用，因此在開發者社群中這三者都有衆多擁護者。純粹以編輯文件的目的來說，這三者都可以完美達成任務。大家可以依照個人喜好選擇。
+
+以上三者都不必立即付費，VSCODE 是微軟開發的免費工具，PyCharm 則是提供社群和職業（需付費）兩個版本供用戶選擇；Sublime Text 的情況不同，下載後可以免費使用，但是使用期間會定期跳出付費提示，但仍然可以繼續使用，
+
+但是有一點提醒大家，有些第三方開發者寫作的插件，是需要付費的，這是插件開發者收取的費用，和上面三個工具本體的付費方式是不相干的，因為工具和插件是不同開發者寫的。
+
+在 HTML/CSS 課程中，講師使用 VSCODE 示範。Python 課程中，另外需要用到的工具，講師都會在課程中講解。
+
+祝大家在學習的過程中快樂順利。"
+03:52 PM	童帥Alan	ATOM 這個有推薦嗎
+03:53 PM	Roger Chen	純粹以編輯 HTML/CSS 文件的需求而言，任何一個文字編輯器都可以勝任。ATOM 也是很棒的編輯器。
+03:53 PM	Logos Chen	"老師好棒！我也補充一下，VSCODE 目前是開源軟體，Sublime Text 3 則是專有軟體，不過兩者的生態系都算滿完整的。WEB 部分想協作的話，也可以考慮 CodePen 和 CodeSandbox。初學者應該 CodePen 比較適合。
+https://codepen.io/trending
+https://codesandbox.io/"
+03:54 PM	Logos Chen unsent a message.
+05:30 PM	⁨⁨名澤⁩⁩ joined the group.
+05:48 PM	Vincent	[File]
+05:48 PM	Vincent	https://elite.taiwanjobs.gov.tw/ClassSearch/Detail?UUID=BAC0024B1B0E498583538EAC8798967A&SOURCE_TYPE=ELIT
+05:48 PM	Vincent	[File]
+05:49 PM	Vincent	剛進來的同學有問題可以私訊Will老師喔~
+05:50 PM	will	[Sticker]
+05:51 PM	*沛欣	@will 老師我有私訊您唷
+05:56 PM	will	[Sticker]
+06:12 PM	名澤	Will老師我要報名
+06:15 PM	Vincent	@名澤 可以先參照上方PDF檔進行填寫資料唷！
+06:16 PM	名澤	好謝謝
+
+2021/09/12, Sun
+08:21 AM	will	各位同學早
+08:22 AM	Ting Ye	老師早
+08:22 AM	哲煌林	老師早安
+08:22 AM	暐程	老師早
+08:23 AM	will	請各位同學稍等進入以下會議室
+08:23 AM	will	https://meet.google.com/ncx-egse-fus
+08:23 AM	Roger Chen	大家早
+08:23 AM	will	Roger老師早
+08:23 AM	Ting Ye	老師早
+08:24 AM	哲煌林	老師早
+08:25 AM	陳浩全	老師早
+08:28 AM	will	尚未登入過的同學請先更換暱稱為中文名，點到同學請開啟頭像，以利點名及身分比對，如果電腦沒有CAM的同學請用手機下載 google meet  APP  喔 ...
+08:38 AM	will	[Photo]
+08:39 AM	名澤	老師那是我 
+08:39 AM	Kasa	改名字
+08:39 AM	名澤	好
+08:39 AM	will	名澤要改中文喔
+08:40 AM	Kasa	https://convid-19.hk.edu.tw/wp-content/uploads/2021/05/Google-Meet-%E5%B8%B3%E8%99%9F%E9%A1%AF%E7%A4%BA%E5%90%8D%E7%A8%B1.pdf
+08:40 AM	Kasa	改名教學
+08:40 AM	will	哈哈  謝謝@Kasa 
+08:40 AM	will	[Sticker]
+08:44 AM	will	[Photo]
+08:44 AM	will	請同學更名喔
+08:45 AM	吳玉培	好的
+08:45 AM	will	[Sticker]
+08:46 AM	吳玉培	[Sticker]
+08:48 AM	will	各位同學請準備上線喔
+08:48 AM	will	目前應該還差10位左右
+08:49 AM	will	今天早上稽核會到請大家不要缺席喔
+08:49 AM	will	[Sticker]
+08:52 AM	Kasa	稽核是學米嗎XD
+08:52 AM	will	[Photo]
+08:52 AM	will	同學請更換中文名喔
+09:08 AM	楊皓婷	老師有點到我嗎
+09:08 AM	Yao Chen	老師沒點到我～
+09:09 AM	will	好的稍等補點
+09:09 AM	will	有喔
+09:19 AM	will	[Photo]
+09:22 AM	Kasa	沒有我QQ
+09:22 AM	will	不好意思  剛好被擋到
+09:31 AM	will	[Photo]
+09:31 AM	will	[Photo]
+09:31 AM	will	[Photo]
+09:32 AM	will unsent a message.
+09:32 AM	will	這幾位同學稍等在找老師補點名喔
+09:38 AM	will	皓婷 剛剛已回覆
+09:38 AM	楊皓婷	謝謝老師
+10:53 AM	will unsent a message.
+10:54 AM	will	這是我們培訓課程的課表
+10:54 AM	will	不過老師這邊會有一些小跳調動
+10:55 AM	will	提供大家參考
+10:57 AM	will	[File]
+11:12 AM	⁨⁨will⁩⁩ changed the group's name to "⁨人工智慧暨網站應用專業人才培訓班第一梯⁩".
+11:12 AM	⁨⁨will⁩⁩ invited ⁨⁨Amber☀️微微⁩, ⁨鍾兆泓⁩⁩ to the group. Wait for them to join before chatting.
+11:13 AM	⁨⁨鍾兆泓⁩⁩ joined the group.
+11:13 AM	⁨⁨Amber☀️微微⁩⁩ joined the group.
+01:16 PM	will	各位同學好  我們準備點名了喔
+01:18 PM	⁨⁨Angus 楷晉⁩⁩ left the group.
+01:21 PM	will	彭晴 黃如玉林沛欣同學 要點名了喔
+01:27 PM	⁨⁨*沛欣⁩⁩ left the group.
+01:29 PM	will	[Photo]
+01:29 PM	翔	@will 老師好 不好意思我沒有被點到名
+01:29 PM	楊皓婷	抱歉剛才下雨斷線 我與沒點到
+01:29 PM	will	好的  兩位沒問題喔
+01:30 PM	翔	[Sticker]
+01:30 PM	Sharon🍑	老師, 不好意思剛剛還沒用手機登入,沒辦法開鏡頭
+01:31 PM	will	好的
+01:31 PM	Sharon🍑	謝謝
+01:31 PM	will	請問妳的中文名
+01:31 PM	Roger Chen	早上 Will 老師在 Line 群組發了時間表給大家，我們實際上課的順序會依照現實情況做一點調整，比如像早上我把色票的例子做前後順序的調整；另外一種情況，早上已經說明，課程的時間很難切齊整點，所以一定會做點調整。整體的順序是不會變的，順序是網頁設計的基本概念以及進階技巧，然後是以 Python 為入門的路徑來學習程式設計，最後一個單元是機器學習的理論以及應用介紹。
+01:33 PM	Roger Chen	[File]
+01:38 PM	will	[Notes] 課程參考聯結
+
+HTML 標籤 (W3C)：
+https://www.w3schools.com/tags/
+
+無結尾標籤 Singleton：
+https://www.thoughtco.com/h
+02:03 PM	Sharon🍑	吳尚蓉
+02:09 PM	will	[Sticker]
+03:39 PM	Roger Chen	https://hackmd.io/@aj42x8YyQSica-GQGNOQ2w/ryjh-Ktzt
+03:40 PM	Roger Chen	這是剛剛在課堂上提到的超連結
+03:40 PM	⁨⁨will⁩⁩ invited ⁨⁨*沛欣⁩⁩ to the group. Wait for them to join before chatting.
+03:41 PM	⁨⁨*沛欣⁩⁩ joined the group.
+03:42 PM	will	[Sticker]
+04:26 PM	你才翔翔	請問上課的影片會有存檔媽
+04:27 PM	你才翔翔	或是範本
+04:43 PM	洪漢宇	老師有回音喔~
+05:04 PM	will	好的
+05:08 PM	Logos Chen unsent a message.
+05:15 PM	pony	老師 五點的點名沒點到我  施品震
+05:16 PM	鍾兆泓	好的 沒問題
+05:16 PM	YJ	老師 想請問會有範例檔 或是 或是 線上課程的PPT嗎？
+05:26 PM	你才翔翔	+1(hands put together)
+05:28 PM	WEI unsent a message.
+05:31 PM	Roger Chen	[File]
+05:31 PM	Roger Chen	[File]
+05:31 PM	Roger Chen	[File]
+05:31 PM	Roger Chen	[File]
+05:41 PM	YJ	謝謝老師！
+05:45 PM	蔡佳玲	謝謝老師~
+05:53 PM	Roger Chen	[File]
+05:53 PM	Roger Chen	[File]
+05:53 PM	Roger Chen	[File]
+05:53 PM	Roger Chen	以上三個檔案是接下來幾個單元的程式碼，請大家先下載解壓
+05:54 PM	Roger Chen	明天早上我們要先講定位
+05:54 PM	will	[Sticker]
+05:55 PM	will	謝謝老師
+05:55 PM	Kasa	謝謝老師
+05:58 PM	•_•	謝謝老師！
+05:59 PM	Roger Chen	大家不要忘了把你的編輯設定，自己私下練習額時候才事半功倍
+05:59 PM	Roger Chen	把開發環境設定好
+06:08 PM	will	"各位同學好，不好意思我們週一到四會有另一個會議室，麻煩同學請點選以下連結：https://meet.google.com/bhg-cjhc-tvs
+
+或者，開啟 Meet 並輸入下列代碼：bhg-cjhc-tvs"
+06:09 PM	童帥Alan	[Sticker]
+06:19 PM	Amber☀️微微	[Sticker]
+06:21 PM	小謝	"老師，請問有哪幾項要做開發環境調整（使用vs code) &
+請問要如何在瀏覽器上觀看成品（使用您給的程式碼）
+謝謝🙏"
+06:31 PM	小謝	成品直接點擊html檔案就可以看到了(OK)
+06:32 PM	小謝	剩vs code開發環境設定我忘了(XD)
+06:32 PM	Roger Chen	或者從檔案管理員拖拉 html 到瀏覽器也可以，前者更直覺
+06:32 PM	Roger Chen	https://gamer99122.pixnet.net/blog/post/216899997-%5Bvscode%5D%E4%BD%BF%E7%94%A8visual-studio-code%E5%BF%AB%E9%80%9F%E6%96%B0%E5%A2%9Ehtml%E7%B6%B2%E9%A0%81%E7%AF%84%E4%BE%8B
+06:33 PM	Roger Chen	https://code.visualstudio.com/docs/languages/html
+06:54 PM	Roger Chen	[Video]
+07:03 PM	Ping	謝謝老師解說
+07:05 PM	陳浩全	謝謝老師解說
+09:07 PM	⁨⁨紹奕⁩⁩ joined the group.
+09:22 PM	小謝	[Sticker]
+09:23 PM	Ping	可以偷問有人下載明天需要的那三個檔案解壓縮成功嗎？
+09:23 PM	Ping	我三個檔案都失敗🙀
+09:24 PM	Ping	圖片定位排版那三個
+09:29 PM	•_•	我都解壓縮成功可以開～
+09:30 PM	YJ	我也有解成功哦
+09:30 PM	YJ	但是第一次解也失敗
+09:32 PM	紹奕	@will 老師好 我剛剛才加入進來 前面的訊息都看不到，想請問我現在有需要做什麼嗎..  
+09:32 PM	Ping	那我重新用用看 謝謝你們
+09:34 PM	Roger Chen	請先看這個連結內容  https://hackmd.io/@aj42x8YyQSica-GQGNOQ2w/ryjh-Ktzt
+09:34 PM	紹奕	謝謝!
+09:36 PM	Roger Chen	請先安裝 sublime 或 vscode
+09:37 PM	Roger Chen	[File]
+09:38 PM	紹奕	好
+09:38 PM	Roger Chen	下載這個壓縮檔（解壓後還有幾個小 zip 檔，依序解開），看看是否能解壓，並且在瀏覽器執行子目錄裏面的 index.html
+09:39 PM	Roger Chen	如果可以的話，表示一切設定都正確
+09:42 PM	紹奕	解壓完了 目前沒有問題
+09:42 PM	Ping	我也成功了👍
+10:39 PM	紹奕	不好意思，請問如果我有私人問題想要詢問的話可以私訊誰嗎？ 
+
+2021/09/13, Mon
+07:56 AM	will	紹奕 早
+07:57 AM	will	可以先line我喔
+07:58 AM	will	各位同學早 周一到周四 請進以下會議室喔
+07:58 AM	will	https://meet.google.com/bhg-cjhc-tvs
+07:59 AM	will	我們8:20分會準時點名喔
+08:13 AM	紹奕	@will 老師好 已經line你了
+08:16 AM	*沛欣	好唷
+08:18 AM	will	[Sticker]
+08:41 AM	Amber☀️微微	"童帥
+彭晴
+黃如玉
+林宸緯
+莊馨儀
+
+以上同學請私LINE我哦"
+08:43 AM	will	[Sticker]
+08:43 AM	童帥Alan	您好 以私
+08:44 AM	will	再麻煩跟微微老師聯繫
+08:54 AM	Ping	[Photo]
+08:54 AM	Ping	老師我的沒有google超連結
+08:54 AM	Ping	[Photo]
+08:54 AM	will	https://meet.google.com/bhg-cjhc-tvs
+09:08 AM	Ping	有了 謝謝老師
+09:08 AM	Ping	[Photo]
+09:29 AM	Ting Ye	[Photo]
+09:30 AM	Ting Ye	謝謝老師!
+09:32 AM	以柔	[Photo]
+09:32 AM	以柔	[Photo]
+09:32 AM	以柔	老師，想請問一下，色票製作的字要怎麼讓他在框框裡？
+09:36 AM	Roger Chen	這是第一個例子？
+09:37 AM	以柔	對
+09:39 AM	Roger Chen	你自己改的 CSS？
+09:39 AM	以柔	不是 我自己依印象從頭試做
+09:40 AM	以柔	寫完 有對照範例檔 但不知道問題在哪裡
+09:41 AM	哲煌林	div有兩個結尾的原因嗎
+09:42 AM	以柔	"是！
+"
+09:42 AM	以柔	謝謝你
+09:42 AM	哲煌林	不會
+09:42 AM	以柔	難怪吃不到下面的自行設定
+09:46 AM	Sharon🍑	昨天有講到有空格跟沒空格的差別，但我沒有很明白，可以請老師再稍微說明一下嗎? 謝謝!
+09:46 AM	Sharon🍑	[Photo]
+09:59 AM	Roger Chen	這是哪一堂課提到的？
+10:03 AM	Sharon🍑	剛開始要製作色票的那一堂
+10:06 AM	Roger Chen	https://pjchender.blogspot.com/2015/03/cssmultiple-selectorsspace.html
+11:05 AM	Amber☀️微微	老師不好意思 有回音哦
+11:06 AM	Amber☀️微微	謝謝
+11:47 AM	⁨⁨紹奕⁩⁩ left the group.
+12:04 PM	Roger Chen	[Photo]
+12:05 PM	Roger Chen	可將這段說明和我給的連結參照著看
+12:10 PM	Amber☀️微微	"林沛欣
+
+同學請私訊我哦"
+12:42 PM	Sharon🍑	謝謝老師
+01:18 PM	Amber☀️微微	我們13:20準時點名哦
+01:30 PM	will	各位同學好
+01:33 PM	will	我們接下來需要收身分證，麻煩同學將正反面影本提供給微微老師 skillmy2021@gmail.com
+01:33 PM	will	這是要給桃分屬存檔用
+01:41 PM	will	麻煩這個兩天提供喔
+01:59 PM	will	[Photo]
+02:01 PM	will	昨天稽核有查到以下同學未到
+02:13 PM	金	老師有回音喔
+02:13 PM	金	3q
+02:21 PM	Amber☀️微微	老師 不好意思 影片斷掉了
+02:24 PM	Amber☀️微微	老師抱歉影片斷了
+02:33 PM	will	https://caniuse.com/?search=Flex
+02:33 PM	will	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+02:47 PM	Roger Chen	[Photo]
+02:47 PM	will	[Sticker]
+04:13 PM	哲煌林	老師影片跳掉囉
+04:14 PM	哲煌林	感謝
+04:32 PM	金	老師回音喔
+06:53 PM	暐程	@will 老師我有傳訊息給你，再麻煩回覆我 謝謝！
+07:14 PM	will	好的
+07:14 PM	will	[Sticker]
+07:32 PM	翔	@will 老師好 請問如果要請假的話 假單是填好私訊傳給你嗎？
+07:33 PM	Amber☀️微微	傳給我哦～
+07:33 PM	翔	[Sticker]
+08:35 PM	Amber☀️微微	"目前尚未繳交身分證照片
+
+洪漢宇
+童帥
+張凱翔
+王靖翔
+吳尚蓉
+彭晴
+楊皓婷
+楊子弘
+孟憲右
+簡政良
+吳玉培
+葉亭瑩
+陳浩全
+林哲煌
+劉曜禎
+洪暐程
+黃如玉
+林宸緯
+梁晉維
+莊馨儀
+金師丞
+黎屏
+陳彥陵
+洪以柔
+林沛欣
+郭名澤
+
+麻煩這些同學這兩天幫我完成哦(emoji)"
+08:36 PM	will	[Sticker]
+08:36 PM	Amber☀️微微	"蔡佳玲
+張玉潔
+謝其宇
+施品震
+
+非常謝謝這幾位同學處裡迅速哦(emoji)"
+
+2021/09/14, Tue
+07:46 AM	Roger Chen	[File]
+08:10 AM	Amber☀️微微	大家早安~我們8:20準時點名哦~
+08:12 AM	will	[Sticker]
+08:34 AM	Amber☀️微微	"彭晴
+吳玉培
+黃如玉
+劉曜禎
+洪暐程
+
+以上同學請私LINE我哦"
+08:48 AM	will unsent a message.
+08:48 AM	will unsent a message.
+09:14 AM	Amber☀️微微	老師不好意思 影片斷掉了
+09:35 AM	Roger Chen	"
+https://css-tricks.com/best-way-implement-wrapper-css/
+
+https://www.w3schools.com/tags/tag_comment.asp
+
+https://awoo.ai/zh-hant/blog/technical-or-content-2/"
+12:35 PM	Amber☀️微微	"目前尚未繳交身分證照片
+洪漢宇
+王靖翔
+彭晴
+楊皓婷
+楊子弘
+吳玉培
+葉亭瑩
+陳浩全
+洪暐程
+黃如玉
+林宸緯
+金師丞
+黎屏
+林沛欣
+
+麻煩這些同學這兩天幫我完成哦(emoji)
+"
+01:15 PM	Amber☀️微微	"@Logos Chen 
+老師你好～我有私訊你哦"
+02:46 PM	Roger Chen	[File]
+02:51 PM	以柔	[Photo]
+02:53 PM	以柔	可是已經改了
+02:54 PM	以柔	[Photo]
+02:55 PM	以柔	2jo4
+02:55 PM	以柔	對
+02:56 PM	Roger Chen	[Photo]
+04:57 PM	Roger Chen	[File]
+04:58 PM	Roger Chen	上面的壓縮檔是下一個單元要用到的原始碼，先放出來，讓大家有時間下載處理
+05:00 PM	Roger Chen	再發一次這個連結 https://hackmd.io/@aj42x8YyQSica-GQGNOQ2w/ryjh-Ktzt
+05:00 PM	Roger Chen	關於上面這個連結，以後我就不再重複提示咯
+05:12 PM	Amber☀️微微	"目前尚未繳交身分證照片
+
+彭晴
+陳浩全
+金師丞
+黎屏
+林沛欣
+
+麻煩這些同學幫我完成哦~~
+"
+06:09 PM	⁨⁨Amber☀️微微⁩⁩ invited ⁨⁨❝ 𝓣𝓸𝓮𝔂 ❞⁩⁩ to the group. Wait for them to join before chatting.
+06:09 PM	⁨⁨❝ 𝓣𝓸𝓮𝔂 ❞⁩⁩ joined the group.
+08:54 PM	Amber☀️微微	"還有兩位同學還未繳交哦~
+請今天幫忙完成哦~謝謝"
+10:00 PM	Amber☀️微微	浩全請私訊我哦～
+
+2021/09/15, Wed
+08:30 AM	Amber☀️微微	"施品震
+彭晴
+梁晉維
+金師丞
+
+以上同學私訊我喔"
+08:50 AM	WEI	私訊了
+09:33 AM	Amber☀️微微	[Sticker]
+11:29 AM	Roger Chen	[File]
+11:57 AM	•_•	"http://www.edu-wang.com.tw/information_1.html
+分享我找到沒有響應式設計的網站～"
+12:55 PM	pony	老師 文件無法解壓
+12:55 PM	pony	[Photo]
+12:57 PM	Yo。	我的好像可以耶
+12:59 PM	pony	之前的檔案可以解壓 不知道為什麼這個不行 
+01:09 PM	Roger Chen	[File]
+01:09 PM	Roger Chen	我換了壓縮軟體，試試看
+01:10 PM	Roger Chen	如果還是不行，請其他沒問題的同學再壓縮一次，丟上來試試看
+01:14 PM	WEI	https://blog.miniasp.com/post/2020/09/14/7-Zip-with-Chinese-filenames-should-use-UTF-8
+01:14 PM	Ting Ye	[File]
+01:42 PM	pony	感謝大家 我已經換別的電腦處理好了
+02:52 PM	Roger Chen	[File]
+
+2021/09/16, Thu
+08:21 AM	Amber☀️微微	"同學們早安～
+要準備開始點名了哦"
+08:30 AM	Amber☀️微微	"童帥
+楊皓婷
+林宸緯
+莊馨儀
+洪以柔
+
+以上同學請私訊我哦"
+11:55 AM	Roger Chen	[File]
+11:55 AM	Roger Chen	[File]
+12:48 PM	⁨⁨❝ 𝓣𝓸𝓮𝔂 ❞⁩⁩ left the group.
+01:07 PM	Amber☀️微微	"@Roger Chen 
+Roger老師您好
+我有私訊您喔！"
+01:15 PM	鍾兆泓	同學我們在5分鐘後點名喔
+01:15 PM	will	[Sticker]
+02:15 PM	Roger Chen	https://material.io/
+02:48 PM	⁨⁨謝宇勝⁩⁩ joined the group.
+02:56 PM	will	[Sticker]
+02:56 PM	will	宇勝有問題再Call老師喔
+02:59 PM	謝宇勝	您好
+03:00 PM	謝宇勝	我要找will老師報名
+03:04 PM	will	好的
+03:38 PM	謝宇勝	那請問我需要提供哪些資料呢？
+03:40 PM	will	宇勝好
+03:40 PM	will	老 師有發資料給你了
+06:07 PM	鍾兆泓	下次上課時間為: 9/22 早上8.30分
+06:32 PM	will	[Sticker]
+
+2021/09/17, Fri
+07:52 PM	pony	[Sticker]
+
+2021/09/18, Sat
+12:21 PM	⁨⁨Kasa⁩⁩ left the group.
+08:50 PM	⁨⁨黃愷成⁩⁩ joined the group.
+09:01 PM	will	[Sticker]
+09:01 PM	will	[File]
+09:02 PM	黃愷成	[Sticker]
+09:02 PM	will	https://elite.taiwanjobs.gov.tw/ClassSearch/Detail?UUID=BAC0024B1B0E498583538EAC8798967A&SOURCE_TYPE=ELIT
+09:02 PM	will	如報名有問題的已私line老師喔
+09:03 PM	黃愷成	是找您嗎?
+09:04 PM	will	[Sticker]
+09:07 PM	⁨⁨涵⁩⁩ joined the group.
+09:09 PM	will	[File]
+09:09 PM	will	https://elite.taiwanjobs.gov.tw/ClassSearch/Detail?UUID=BAC0024B1B0E498583538EAC8798967A&SOURCE_TYPE=ELIT
+09:09 PM	will	如報名有問題的已私line老師喔
+09:21 PM	涵	@will 老師已私訊
+09:26 PM	will	[Sticker]
+
+2021/09/19, Sun
+11:45 AM	⁨⁨Vincent⁩⁩ invited ⁨⁨徐浩維⁩⁩ to the group. Wait for them to join before chatting.
+11:46 AM	⁨⁨徐浩維⁩⁩ joined the group.
+11:46 AM	徐浩維	Will老師我要報名
+12:11 PM	will	[File]
+12:11 PM	will	https://elite.taiwanjobs.gov.tw/ClassSearch/Detail?UUID=BAC0024B1B0E498583538EAC8798967A&SOURCE_TYPE=ELIT
+12:11 PM	will	如報名有問題的已私line老師喔
+12:12 PM	will	[Photo]
+12:12 PM	will unsent a message.
+12:12 PM	will	切結書麻煩寄這裡喔…
+
+2021/09/20, Mon
+09:03 PM	⁨⁨瓊文➰⁩⁩ joined the group.
+09:10 PM	瓊文➰	要找will老師報名～
+09:11 PM	Vincent	@will 老師麻煩了
+09:16 PM	will	[Sticker]
+09:29 PM	Vincent	切結書麻煩寄這裡喔…
+09:29 PM	Vincent	https://elite.taiwanjobs.gov.tw/ClassSearch/Detail?UUID=BAC0024B1B0E498583538EAC8798967A&SOURCE_TYPE=ELIT
+09:29 PM	Vincent	[File]
+09:29 PM	Vincent	[Photo]
+09:30 PM	Vincent	如報名有問題的已私line @will 老師喔
+09:32 PM	瓊文➰	[Sticker]
+09:37 PM	will	[Sticker]
+
+2021/09/21, Tue
+07:48 PM	will	各位同學好
+07:48 PM	will unsent a message.
+07:49 PM	will	明早8:20我們準線上點名喔
+07:49 PM	will	https://meet.google.com/bhg-cjhc-tvs
+07:50 PM	will	第一次進會議室的同學請將名稱改中文喔喔
+07:57 PM	*沛欣	[Sticker]
+
+2021/09/22, Wed
+08:09 AM	Amber☀️微微	"同學們早安～
+8:20我們準時線上點名哦"
+08:20 AM	Amber☀️微微	請同學幫我將帳號改為中文名喔
+08:25 AM	Roger Chen	"程式碼的壓縮檔放在這裏 --》 https://reurl.cc/DZgQ1E
+
+
+課程內容的參考資料 --》 https://reurl.cc/Q69kd9"
+08:57 AM	Roger Chen	[Notes] 程式碼的壓縮檔放在這裏 --》 https://reurl.cc/DZgQ1E
+
+
+課程內容的參考資料 --》 https://reurl.cc/Q69kd9
+09:45 AM	陳浩全	[Photo]
+12:09 PM	Amber☀️微微	"彭晴
+黎屏
+張瓊文
+
+請以上同學私訊我哦"
+01:11 PM	鍾兆泓	各位同學10分鐘後開始點名喔
+10:49 PM	will	各位同學好
+10:49 PM	will	https://meet.google.com/ovx-jnnr-cvk
+10:50 PM	will	明天早上教室改由這一個，再麻煩大家進入時留意一下喔
+10:55 PM	童帥Alan	謝謝
+
+2021/09/23, Thu
+08:17 AM	Amber☀️微微	同學們早安~ 我們準時8:20點名哦
+08:26 AM	鍾兆泓	有人無法加入嗎
+08:26 AM	Wade	我只能用手機
+08:27 AM	Wade	電腦打不開
+08:28 AM	will	請問你電腦的瀏覽器是用IE嗎
+08:28 AM	will	可以試一下chrome
+08:28 AM	Wade	好
+08:34 AM	Amber☀️微微	"張凱翔
+楊子弘
+黎屏
+
+請以上同學私訊我哦"
+11:57 AM	Amber☀️微微 unsent a message.
+12:00 PM	Amber☀️微微	"徐浩維
+黃愷成
+張瓊文
+
+請三位同學
+將身分證正反面影本提供給我哦
+這是要給桃分屬存檔用
+可傳至email或私訊我
+skillmy2021@gmail.com
+
+請幫我今天完成哦~
+謝謝~
+"
+01:12 PM	鍾兆泓	各位同學10分鐘後點名喔
+
+2021/09/24, Fri
+08:21 AM	徐浩維	請問一下目前無法加入視訊是正常的嗎?
+08:21 AM	徐浩維	[Photo]
+08:21 AM	will	浩維  抱歉 本班是周日到周四喔
+08:22 AM	徐浩維	好的
+08:24 AM	will	[Sticker]
+
+2021/09/25, Sat
+08:37 PM	Roger Chen	請問明天早上用哪一個會議室？開課那天指定的週日專用會議室，還是週三新開的會議室？
+08:40 PM	will	老師好 目前使用付費會議室可以不用改了
+08:40 PM	will	[Sticker]
+08:40 PM	Roger Chen	收到，謝謝
+08:47 PM	⁨⁨瓊文➰⁩⁩ left the group.
+
+2021/09/26, Sun
+08:09 AM	鍾兆泓	各位同學我們8:20分準時點名喔~
+08:39 AM	鍾兆泓	"童帥
+王靖翔
+彭晴
+孟憲右
+
+請以上同學私訊我哦"
+01:11 PM	鍾兆泓	各位同學我們13:20分點名喔
+
+2021/09/27, Mon
+08:19 AM	鍾兆泓	各位同學我們2分鐘後點名
+08:55 AM	⁨⁨暐程⁩⁩ left the group.
+12:00 PM	鍾兆泓	"彭晴
+林宸緯
+黎屏
+
+請以上同學私訊我哦"
+01:12 PM	鍾兆泓	同學們 13:20 準時點名喔
+
+2021/09/28, Tue
+08:20 AM	Amber☀️微微	"同學們早安～
+我們準時點名哦"
+08:29 AM	Amber☀️微微	"王靖翔
+吳尚蓉
+黎屏
+林沛欣
+
+請以上同學私訊我"
+11:18 AM	金	老師有回音
+11:59 AM	Roger Chen	新上傳的壓縮檔是 --》 SCSS 教材區.zip
+12:00 PM	Roger Chen	壓縮檔目錄區的連結在本群組的 note 中  https://reurl.cc/DZgQ1E
+01:15 PM	Amber☀️微微	同學們我們20分準時點名哦
+
+2021/09/29, Wed
+08:20 AM	Amber☀️微微	同學們我們準時點名哦
+01:15 PM	鍾兆泓	同學們我們13:20分準時點名哦
+01:24 PM	黃愷成	@鍾兆泓 老師剛好像沒點到我 只有最後全體拍照
+01:25 PM	鍾兆泓	好 在幫我開一次
+01:25 PM	鍾兆泓	ok
+01:25 PM	金	老師剛剛沒點名到
+01:25 PM	金	能捕嗎
+01:25 PM	黃愷成	謝謝
+01:26 PM	名澤	老師我剛剛沒點到 能補點嗎
+01:26 PM	鍾兆泓	@金 @名澤 麻煩都幫我開鏡頭
+01:27 PM	鍾兆泓	ok
+01:27 PM	名澤	謝謝
+01:27 PM	金	謝謝
+01:59 PM	Roger Chen	[Photo]
+01:59 PM	Roger Chen	[Photo]
+01:59 PM	Roger Chen	[Photo]
+02:02 PM	小謝	[Sticker]
+
+2021/09/30, Thu
+08:16 AM	Amber☀️微微	"同學們早安
+待會點名的時候
+會請大家都先幫我開啟視訊哦～
+全部點完名
+請同學們再關閉畫面
+
+謝謝大家🙏🏻🙏🏻🙏🏻"
+08:54 AM	Amber☀️微微	"@童帥Alan 
+@你才翔翔 
+@晴 
+@楊皓婷 
+
+請以上同學私訊我哦"
+01:13 PM	鍾兆泓	同學好我們13:20準時點名喔
+02:09 PM	鍾兆泓	"林沛欣
+黎屏
+劉曜禎
+
+請以上同學私訊我"
+
+2021/10/03, Sun
+08:11 AM	will	同學們早安~ 我們準時8:20點名哦
+01:11 PM	鍾兆泓	同學們我們13:20分準時點名喔
+03:43 PM	金	老師在嗎
+03:43 PM	金	有回音喔
+04:32 PM	金	老師回音喔
+
+2021/10/04, Mon
+08:05 AM	Amber☀️微微	同學們早安~ 我們準時8:20點名哦
+10:07 AM	Roger Chen	[File]
+10:07 AM	Roger Chen	[File]
+01:06 PM	鍾兆泓	同學們我們準時13:20準時點名哦
+
+2021/10/05, Tue
+08:02 AM	Amber☀️微微	同學們早安~ 我們準時8:20點名哦
+09:04 AM	will	同學 這兩天稽核會上線
+09:05 AM	will	請務必掛線喔
+09:57 AM	Roger Chen	[Photo]
+01:07 PM	鍾兆泓	同學們 我們準時13:20點名哦
